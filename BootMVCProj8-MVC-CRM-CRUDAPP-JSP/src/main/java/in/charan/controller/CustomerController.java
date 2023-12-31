@@ -67,5 +67,4 @@ public class CustomerController {
 		System.out.println("inside showFormForDelete handler method");
 		return "redirect:/customer/list";
 	}
-
 }
