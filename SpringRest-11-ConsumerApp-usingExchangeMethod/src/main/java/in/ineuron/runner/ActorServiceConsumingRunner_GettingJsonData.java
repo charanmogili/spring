@@ -33,6 +33,5 @@ public class ActorServiceConsumingRunner_GettingJsonData implements CommandLineR
 		System.out.println("ResponseStatus Code Value :: " + responseEntity.getStatusCodeValue());
 		System.out.println("ResponseStatus Code       :: " + responseEntity.getStatusCode().name());
 		System.out.println("********************************************************");
-
 	}
 }
